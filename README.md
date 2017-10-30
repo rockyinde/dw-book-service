@@ -13,3 +13,4 @@ Possible Improvements:
 1) Better error handling - more exceptions
 2) Document locking - currently synchronized at single server level
 3) More APIs for a fully functional system
+4) Unit tests
